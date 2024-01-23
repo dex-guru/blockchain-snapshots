@@ -1,3 +1,4 @@
+![Manta Network Icon](https://manta.network/assets/img/logo.svg)
 # Manta Network Blockchain Snapshot
 
 ## About Manta Network
