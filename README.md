@@ -1,3 +1,41 @@
+![Canto Network Icon](https://canto.io/tokens/canto.svg)
+
+# Canto Network Blockchain Snapshot
+
+## About Canto Network
+
+Canto is a free-to-use Layer 1 blockchain focusing on providing public goods and financial tools within its ecosystem. It emphasizes zero-cost transactions for specific operations, aiming to foster a more inclusive and accessible DeFi environment.
+
+## Key Features of Canto Network
+
+- **Free Public Goods:** Offers essential DeFi features as public goods, such as a native lending protocol and liquidity pools, without fees.
+- **Permissionless Innovation:** Encourages open participation and development within its ecosystem, allowing for a wide range of financial products and services.
+- **Community Governance:** Utilizes a DAO structure for governance, giving the community a significant role in the direction and development of the network.
+- **Sustainability:** Focuses on long-term sustainability and utility, providing a stable foundation for DeFi applications and services.
+
+## Snapshot Details
+
+This snapshot is an archive of the Canto Network blockchain data, capturing the state up to 7926390 block. It is designed for node operators or individuals looking to quickly sync with the network.
+
+- **Snapshot Size:** Approximately 2200GB.
+- **Required Free Space:** At least 2500GB on the node to accommodate unpacking and future growth.
+- **Snapshot URL:** [Direct Link to Snapshot](URL_TO_SNAPSHOT)
+
+Please note, the download speed may vary based on your internet connection and server bandwidth.
+
+## Downloading and Using the Snapshot
+
+To download and unpack the snapshot without storing the entire archive on your node, use the following command:
+
+```bash
+wget -O- URL_TO_SNAPSHOT | tar -xv
+```
+
+Additional Information
+- This snapshot is provided as-is for the community's convenience, without guarantees regarding completeness beyond the specified block.
+- Ensure your node meets the above requirements for storage space and network capacity before proceeding.
+For more information about Canto Network and its features, please visit the official [Canto Network website](https://canto.io/).
+
 ![Manta Network Icon](https://manta.network/assets/img/logo.svg)
 # Manta Network Blockchain Snapshot
 
@@ -16,7 +54,7 @@ Manta Network is a privacy-preserving decentralized finance (DeFi) platform buil
 
 This snapshot is an archive of the Manta Network blockchain's geth directory, capturing the state up to block 844,730. It is intended for use by node operators or individuals looking to quickly sync with the network without processing all transactions from genesis.
 
-- **Snapshot Size:** Approximately 50GB
+- **Snapshot Size:** Approximately 50GB.
 - **Required Free Space:** At least 70GB on the node to accommodate unpacking and future growth.
 - **Snapshot URL:** [https://storage.googleapis.com/evm_snapshots/manta/geth.tar](https://storage.googleapis.com/evm_snapshots/manta/geth.tar)
 
