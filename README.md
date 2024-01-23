@@ -35,7 +35,7 @@ Additional Information
 - This snapshot is provided as-is for the community's convenience, without guarantees regarding completeness beyond the specified block.
 - Ensure your node meets the above requirements for storage space and network capacity before proceeding.
 For more information about Canto Network and its features, please visit the official [Canto Network website](https://canto.io/).
-
+---------------------------------
 ![Manta Network Icon](https://manta.network/assets/img/logo.svg)
 # Manta Network Blockchain Snapshot
 
