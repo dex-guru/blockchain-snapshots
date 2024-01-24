@@ -30,7 +30,6 @@ wget -O- https://storage.googleapis.com/evm_snapshots/canto/canto_7700-1_2024-01
 Additional Information
 - This snapshot is provided as-is for the community's convenience, without guarantees regarding completeness beyond the specified block.
 - Ensure your node meets the above requirements for storage space and network capacity before proceeding.
-For more information about Canto Network and its features, please visit the official [Canto Network website](https://canto.io/).
 ---------------------------------
 ## Manta Network Blockchain Snapshot
 
@@ -58,4 +57,3 @@ This command downloads the snapshot and extracts it on-the-fly, reducing the nee
 - This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond block 844,730.
 - Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
 
-For more information about Manta Network and its features, please visit the official [Manta Network website](https://manta.network/).
