@@ -2,17 +2,6 @@
 
 # Canto Network Blockchain Snapshot
 
-## About Canto Network
-
-Canto is a free-to-use Layer 1 blockchain focusing on providing public goods and financial tools within its ecosystem. It emphasizes zero-cost transactions for specific operations, aiming to foster a more inclusive and accessible DeFi environment.
-
-## Key Features of Canto Network
-
-- **Free Public Goods:** Offers essential DeFi features as public goods, such as a native lending protocol and liquidity pools, without fees.
-- **Permissionless Innovation:** Encourages open participation and development within its ecosystem, allowing for a wide range of financial products and services.
-- **Community Governance:** Utilizes a DAO structure for governance, giving the community a significant role in the direction and development of the network.
-- **Sustainability:** Focuses on long-term sustainability and utility, providing a stable foundation for DeFi applications and services.
-
 ## Snapshot Details
 
 This snapshot is an archive of the Canto Network blockchain data, capturing the state up to 7926390 block. It is designed for node operators or individuals looking to quickly sync with the network.
@@ -38,17 +27,6 @@ For more information about Canto Network and its features, please visit the offi
 ---------------------------------
 ![Manta Network Icon](https://manta.network/assets/img/logo.svg)
 # Manta Network Blockchain Snapshot
-
-## About Manta Network
-
-Manta Network is a privacy-preserving decentralized finance (DeFi) platform built on Substrate, designed to offer private transactions and swaps for blockchain assets. Leveraging zk-SNARKs, Manta Network aims to provide high-throughput and privacy-focused blockchain solutions, enabling users to transact and exchange cryptocurrencies with privacy and security at its core.
-
-## Key Features of Manta Network
-
-- **Privacy-Preserving Transactions:** Utilizes zk-SNARKs to ensure transactions remain confidential while still being verifiable on the blockchain.
-- **High Throughput:** Designed to support a high number of transactions per second (TPS), catering to the scalability needs of DeFi and other applications.
-- **Interoperability:** Built on Substrate, Manta Network is designed for cross-chain compatibility within the Polkadot ecosystem, enhancing its reach and utility.
-- **User-Friendly:** Offers a seamless experience for users looking to conduct private transactions or swaps without compromising on speed or security.
 
 ## Snapshot Details
 
