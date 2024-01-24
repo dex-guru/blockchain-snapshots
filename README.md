@@ -19,7 +19,7 @@ This snapshot is an archive of the Canto Network blockchain data, capturing the 
 
 - **Snapshot Size:** Approximately 2200GB.
 - **Required Free Space:** At least 2500GB on the node to accommodate unpacking and future growth.
-- **Snapshot URL:** [Direct Link to Snapshot](URL_TO_SNAPSHOT)
+- **Snapshot URL:** [https://storage.googleapis.com/evm_snapshots/canto/canto_7700-1_2024-01-23.tar](https://storage.googleapis.com/evm_snapshots/canto/canto_7700-1_2024-01-23.tar)
 
 Please note, the download speed may vary based on your internet connection and server bandwidth.
 
@@ -28,7 +28,7 @@ Please note, the download speed may vary based on your internet connection and s
 To download and unpack the snapshot without storing the entire archive on your node, use the following command:
 
 ```bash
-wget -O- URL_TO_SNAPSHOT | tar -xv
+wget -O- https://storage.googleapis.com/evm_snapshots/canto/canto_7700-1_2024-01-23.tar | tar -xv
 ```
 
 Additional Information
