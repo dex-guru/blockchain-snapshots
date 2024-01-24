@@ -7,9 +7,9 @@ Whenever a node decides to join the network, it must download the entire blockch
 We provide Blockchain Snapshots Service for selected chains as a part of our infrastructure offering bundled with [Block Explorer as a service.](https://b2b.dex.guru/explorer) 
 
 
-# Canto Network Blockchain Snapshot
+## Canto Network Blockchain Snapshot
 
-## Snapshot Details
+### Snapshot Details
 
 This snapshot is an archive of the Canto Network blockchain data, capturing the state up to 7926390 block. It is designed for node operators or individuals looking to quickly sync with the network.
 
@@ -19,7 +19,7 @@ This snapshot is an archive of the Canto Network blockchain data, capturing the 
 
 Please note, the download speed may vary based on your internet connection and server bandwidth.
 
-## Downloading and Using the Snapshot
+### Downloading and Using the Snapshot
 
 To download and unpack the snapshot without storing the entire archive on your node, use the following command:
 
@@ -32,9 +32,9 @@ Additional Information
 - Ensure your node meets the above requirements for storage space and network capacity before proceeding.
 For more information about Canto Network and its features, please visit the official [Canto Network website](https://canto.io/).
 ---------------------------------
-# Manta Network Blockchain Snapshot
+## Manta Network Blockchain Snapshot
 
-## Snapshot Details
+### Snapshot Details
 
 This snapshot is an archive of the Manta Network blockchain's geth directory, capturing the state up to block 844,730. It is intended for use by node operators or individuals looking to quickly sync with the network without processing all transactions from genesis.
 
@@ -44,7 +44,7 @@ This snapshot is an archive of the Manta Network blockchain's geth directory, ca
 
 Please note, this is a public link, and download speed may be limited based on your internet connection and server bandwidth.
 
-## Downloading and Using the Snapshot
+### Downloading and Using the Snapshot
 
 To efficiently download and use the snapshot without storing the entire archive on your node, you can use the following `wget` command piped into `tar` to extract the files directly:
 
