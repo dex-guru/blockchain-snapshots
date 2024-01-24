@@ -1,4 +1,11 @@
-![Canto Network Icon](https://canto.io/tokens/canto.svg)
+# Blockchain Snapshots Service 
+
+A snapshot is a file that stores the present condition of a blockchain at a specific moment in time. This snapshot encompasses the entire blockchain ledger, documenting every existing address and its associated details, such as transactions, fees, balances, metadata, and more, and it's kept in a folder on your hard drive.
+
+Whenever a node decides to join the network, it must download the entire blockchain history, starting sync from the first block (genesis block) to the most recent block produced. The size of this blockchain can vary significantly, ranging from 10-50 GB to as much as a few TBs. In contrast, snapshots provide an efficient alternative, allowing nodes to synchronize with the network by downloading only the latest state data.
+
+We provide Blockchain Snapshots Service for selected chains as a part of our infrastructure offering bundled with [Block Explorer as a service.](https://b2b.dex.guru/explorer) 
+
 
 # Canto Network Blockchain Snapshot
 
@@ -25,7 +32,6 @@ Additional Information
 - Ensure your node meets the above requirements for storage space and network capacity before proceeding.
 For more information about Canto Network and its features, please visit the official [Canto Network website](https://canto.io/).
 ---------------------------------
-![Manta Network Icon](https://manta.network/assets/img/logo.svg)
 # Manta Network Blockchain Snapshot
 
 ## Snapshot Details
