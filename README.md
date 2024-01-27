@@ -57,3 +57,29 @@ This command downloads the snapshot and extracts it on-the-fly, reducing the nee
 - This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond block 844,730.
 - Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
 
+# Optimism Blockchain Snapshot
+
+## Snapshot Details
+
+This snapshot is an archive of the Optimism blockchain's node directory, capturing the state up to ~115381265 block. It is intended for use by node operators or individuals looking to quickly sync with the Optimism network without processing all transactions from the genesis block.
+
+- Snapshot Size: Approximately 2300GB.
+- Required Free Space: At least 2500GB on the node to accommodate unpacking and future growth.
+- Snapshot URL: [Snapshot URL]
+
+Please note, this is a public link, and download speed may be limited based on your internet connection and server bandwidth.
+
+## Downloading and Using the Snapshot
+
+To efficiently download and use the snapshot without storing the entire archive on your node, you can use the following command piped into tar to extract the files directly:
+
+```bash
+wget -O- [Snapshot URL] | tar -xv
+```
+
+This command downloads the snapshot and extracts it on-the-fly, reducing the need for additional storage space during the setup process.
+
+## Additional Information
+
+- This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond a certain block (specify if known).
+- Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
