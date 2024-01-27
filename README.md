@@ -48,7 +48,7 @@ Please note, this is a public link, and download speed may be limited based on y
 To efficiently download and use the snapshot without storing the entire archive on your node, you can use the following `wget` command piped into `tar` to extract the files directly:
 
 ```bash
-wget -O- [https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar](https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar) | tar -xv
+wget -O- https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar | tar -xv
 ```
 
 This command downloads the snapshot and extracts it on-the-fly, reducing the need for additional storage space during the setup process.
