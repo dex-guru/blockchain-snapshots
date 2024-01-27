@@ -56,8 +56,8 @@ This command downloads the snapshot and extracts it on-the-fly, reducing the nee
 ## Additional Information
 - This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond block 844,730.
 - Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
-
-# Optimism Blockchain Snapshot
+---------------------------------
+# Optimism Network Blockchain Snapshot
 
 ## Snapshot Details
 
