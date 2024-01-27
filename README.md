@@ -80,6 +80,5 @@ wget -O- [Snapshot URL] | tar -xv
 This command downloads the snapshot and extracts it on-the-fly, reducing the need for additional storage space during the setup process.
 
 ## Additional Information
-
-- This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond a certain block (specify if known).
+- This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond block 115381265.
 - Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
