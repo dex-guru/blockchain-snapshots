@@ -65,7 +65,7 @@ This snapshot is an archive of the Optimism blockchain's node directory, capturi
 
 - Snapshot Size: Approximately 3700GB.
 - Required Free Space: At least 4000GB on the node to accommodate unpacking and future growth.
-- Snapshot URL: [Snapshot URL]
+- Snapshot URL: [https://storage.googleapis.com/evm_snapshots/optimism/geth_20240127132251.tar](https://storage.googleapis.com/evm_snapshots/optimism/geth_20240127132251.tar)
 
 Please note, this is a public link, and download speed may be limited based on your internet connection and server bandwidth.
 
@@ -74,7 +74,7 @@ Please note, this is a public link, and download speed may be limited based on y
 To efficiently download and use the snapshot without storing the entire archive on your node, you can use the following command piped into tar to extract the files directly:
 
 ```bash
-wget -O- [Snapshot URL] | tar -xv
+wget -O- https://storage.googleapis.com/evm_snapshots/optimism/geth_20240127132251.tar | tar -xv
 ```
 
 This command downloads the snapshot and extracts it on-the-fly, reducing the need for additional storage space during the setup process.
