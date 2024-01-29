@@ -7,7 +7,7 @@ Whenever a node decides to join the network, it must download the entire blockch
 We provide Blockchain Snapshots Service for selected chains as a part of our infrastructure offering bundled with [Block Explorer as a service.](https://b2b.dex.guru/explorer) 
 
 
-## Canto Network Blockchain Snapshot
+## Canto Mainnet blockchain archive node snapshot
 
 ### Snapshot Details
 
@@ -31,7 +31,7 @@ Additional Information
 - This snapshot is provided as-is for the community's convenience, without guarantees regarding completeness beyond the specified block.
 - Ensure your node meets the above requirements for storage space and network capacity before proceeding.
 ---------------------------------
-## Manta Network Blockchain Snapshot
+## Manta Mainnet blockchain archive node snapshot
 
 ### Snapshot Details
 
@@ -57,11 +57,11 @@ This command downloads the snapshot and extracts it on-the-fly, reducing the nee
 - This snapshot is provided "as is" for convenience, with no guarantees regarding up-to-dateness or completeness beyond block 844,730.
 - Ensure your node meets the specified requirements before attempting to use this snapshot, including available storage space and network connectivity.
 ---------------------------------
-# Optimism Network Blockchain Snapshot
+# Optimism Mainnet blockchain archive node snapshot
 
 ## Snapshot Details
 
-This snapshot is an archive of the Optimism blockchain's node directory, capturing the state up to ~115381265 block. It is intended for use by node operators or individuals looking to quickly sync with the Optimism network without processing all transactions from the genesis block.
+This snapshot is an archive of the Optimism blockchain's geth directory, capturing the state up to ~115381265 block. It is intended for use by node operators or individuals looking to quickly sync with the Optimism network without processing all transactions from the genesis block.
 
 - Snapshot Size: Approximately 3700GB.
 - Required Free Space: At least 4000GB on the node to accommodate unpacking and future growth.
