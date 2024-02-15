@@ -35,11 +35,11 @@ Additional Information
 
 ### Snapshot Details
 
-This snapshot is an archive of the Manta Network blockchain's geth directory, capturing the state up to block ~1213370. It is intended for use by node operators or individuals looking to quickly sync with the network without processing all transactions from genesis.
+This snapshot is an archive of the Manta Network blockchain's geth directory, capturing the state up to block ~137800. It is intended for use by node operators or individuals looking to quickly sync with the network without processing all transactions from genesis.
 
 - **Snapshot Size:** Approximately 100GB.
 - **Required Free Space:** At least 120GB on the node to accommodate unpacking and future growth.
-- **Snapshot URL:** [https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar](https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar)
+- **Snapshot URL:** [https://storage.googleapis.com/evm_snapshots/manta/eth_20240215124815.tar](https://storage.googleapis.com/evm_snapshots/manta/eth_20240215124815.tar)
 
 Please note, this is a public link, and download speed may be limited based on your internet connection and server bandwidth.
 
@@ -48,7 +48,7 @@ Please note, this is a public link, and download speed may be limited based on y
 To efficiently download and use the snapshot without storing the entire archive on your node, you can use the following `wget` command piped into `tar` to extract the files directly:
 
 ```bash
-wget -O- https://storage.googleapis.com/evm_snapshots/manta/geth_20240127120858.tar | tar -xv
+wget -O- https://storage.googleapis.com/evm_snapshots/manta/eth_20240215124815.tar | tar -xv
 ```
 
 This command downloads the snapshot and extracts it on-the-fly, reducing the need for additional storage space during the setup process.
