@@ -37,8 +37,8 @@ Additional Information
 
 This snapshot is an archive of the Manta Network blockchain's geth directory, capturing the state up to block ~137800. It is intended for use by node operators or individuals looking to quickly sync with the network without processing all transactions from genesis.
 
-- **Snapshot Size:** Approximately 100GB.
-- **Required Free Space:** At least 120GB on the node to accommodate unpacking and future growth.
+- **Snapshot Size:** Approximately 131GB.
+- **Required Free Space:** At least 150GB on the node to accommodate unpacking and future growth.
 - **Snapshot URL:** [https://storage.googleapis.com/evm_snapshots/manta/eth_20240215124815.tar](https://storage.googleapis.com/evm_snapshots/manta/eth_20240215124815.tar)
 
 Please note, this is a public link, and download speed may be limited based on your internet connection and server bandwidth.
