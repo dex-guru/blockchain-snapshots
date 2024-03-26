@@ -7,7 +7,7 @@ Whenever a node decides to join the network, it must download the entire blockch
 We provide Blockchain Snapshots Service for selected chains as a part of our infrastructure offering bundled with [Block Explorer as a service.](https://b2b.dex.guru/explorer) 
 
 
-## CrossFi Mainnet Blockchain Archive Node Snapshot
+## CrossFi Blockchain Archive Node Snapshot
 
 ### Snapshot Details
 This section introduces snapshots for the CrossFi blockchain, designed to help node operators and individuals synchronize with the CrossFi network quickly. For the latest snapshot details, including the block height and size, please visit the provided link.
