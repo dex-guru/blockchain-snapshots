@@ -15,6 +15,15 @@ This section introduces snapshots for the CrossFi blockchain, designed to help n
 ### Snapshot URL: [https://storage.googleapis.com/evm_snapshots/crossfi/index.html](https://storage.googleapis.com/evm_snapshots/crossfi/index.html)
 
 The link directs to an index page where the most recent snapshot of the CrossFi blockchain is available. This snapshot is crucial for those looking to rapidly integrate and sync with the CrossFi network, bypassing the need to process every transaction from the genesis block.
+The snapshot must be unpacked to "home" blockchain directory (which can be indicated by using **--home** argument) with name **data**
+
+### example:
+├── bin
+│   ├── crossfid
+└── testnet
+    ├── config
+    ├── data  <----
+
 
 ### Downloading and Using the Snapshot
 Details on how to download and apply the snapshot can be found on the index page. Typically, the process involves using a command similar to those provided for other blockchains, allowing for efficient downloading and unpacking of the snapshot data.
