@@ -7,6 +7,24 @@ Whenever a node decides to join the network, it must download the entire blockch
 We provide Blockchain Snapshots Service for selected chains as a part of our infrastructure offering bundled with [Block Explorer as a service.](https://b2b.dex.guru/explorer) 
 
 
+## CrossFi Mainnet Blockchain Archive Node Snapshot
+
+### Snapshot Details
+This section introduces snapshots for the CrossFi blockchain, designed to help node operators and individuals synchronize with the CrossFi network quickly. For the latest snapshot details, including the block height and size, please visit the provided link.
+
+### Snapshot URL: [https://storage.googleapis.com/evm_snapshots/crossfi/index.html]
+(https://storage.googleapis.com/evm_snapshots/crossfi/index.html)
+
+The link directs to an index page where the most recent snapshot of the CrossFi blockchain is available. This snapshot is crucial for those looking to rapidly integrate and sync with the CrossFi network, bypassing the need to process every transaction from the genesis block.
+
+### Downloading and Using the Snapshot
+Details on how to download and apply the snapshot can be found on the index page. Typically, the process involves using a command similar to those provided for other blockchains, allowing for efficient downloading and unpacking of the snapshot data.
+
+### Additional Information
+The CrossFi snapshot is provided "as is" for the community's convenience. Please verify the snapshot's completeness and up-to-dateness as per your requirements.
+Ensure your node meets the necessary requirements for storage space and network connectivity before attempting to utilize the snapshot.
+This addition ensures that users interested in the CrossFi blockchain can quickly access and utilize the latest snapshot for their nodes, facilitating easier and faster synchronization with the network.
+
 ## Canto Mainnet blockchain archive node snapshot
 
 ### Snapshot Details
