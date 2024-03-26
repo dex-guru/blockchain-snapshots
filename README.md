@@ -12,8 +12,7 @@ We provide Blockchain Snapshots Service for selected chains as a part of our inf
 ### Snapshot Details
 This section introduces snapshots for the CrossFi blockchain, designed to help node operators and individuals synchronize with the CrossFi network quickly. For the latest snapshot details, including the block height and size, please visit the provided link.
 
-### Snapshot URL: [https://storage.googleapis.com/evm_snapshots/crossfi/index.html]
-(https://storage.googleapis.com/evm_snapshots/crossfi/index.html)
+### Snapshot URL: [https://storage.googleapis.com/evm_snapshots/crossfi/index.html](https://storage.googleapis.com/evm_snapshots/crossfi/index.html)
 
 The link directs to an index page where the most recent snapshot of the CrossFi blockchain is available. This snapshot is crucial for those looking to rapidly integrate and sync with the CrossFi network, bypassing the need to process every transaction from the genesis block.
 
